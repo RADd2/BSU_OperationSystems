@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/BSU_OperationSystems/Laba1/lin/build libNumber.a libVector.dylib
