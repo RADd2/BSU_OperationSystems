@@ -1,0 +1,5 @@
+/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/build/CMakeFiles/Number.dir
+/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/build/CMakeFiles/Vector.dir
+/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/build/CMakeFiles/main.dir
+/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/build/CMakeFiles/edit_cache.dir
+/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/build/CMakeFiles/rebuild_cache.dir

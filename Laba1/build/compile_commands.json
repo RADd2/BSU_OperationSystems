@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/build",
+  "command": "/usr/bin/clang++  -I/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/StaticLib -g -o CMakeFiles/Number.dir/StaticLib/Number.cpp.o -c /Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/StaticLib/Number.cpp",
+  "file": "/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/StaticLib/Number.cpp",
+  "output": "CMakeFiles/Number.dir/StaticLib/Number.cpp.o"
+},
+{
+  "directory": "/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/build",
+  "command": "/usr/bin/clang++ -DVector_EXPORTS -I/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/DynamicLib -I/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/StaticLib -g -fPIC -o CMakeFiles/Vector.dir/DynamicLib/Vector.cpp.o -c /Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/DynamicLib/Vector.cpp",
+  "file": "/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/DynamicLib/Vector.cpp",
+  "output": "CMakeFiles/Vector.dir/DynamicLib/Vector.cpp.o"
+},
+{
+  "directory": "/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/build",
+  "command": "/usr/bin/clang++  -I/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/StaticLib -I/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/DynamicLib -g -o CMakeFiles/main.dir/main.cpp.o -c /Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/main.cpp",
+  "file": "/Users/nikita_abr/Documents/Programming/BSU/OperationSystem/Laba1/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(Laba1)
+
+add_library(Number STATIC ${CMAKE_CURRENT_SOURCE_DIR}/StaticLib/Number.cpp)
+target_include_directories(Number PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/StaticLib)
+
+add_library(Vector SHARED ${CMAKE_CURRENT_SOURCE_DIR}/DynamicLib/Vector.cpp)
+target_include_directories(Vector PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/DynamicLib)
+
+target_link_libraries(Vector PRIVATE Number)
+
+add_executable(main main.cpp)
+
+target_link_libraries(main PRIVATE Number Vector)
