@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Programming\Laba1\DLL\Vector.h(27,9): warning C4251: 'Vector::x_': 'Number' needs to have dll-interface to be used by clients of 'Vector'
+  (compiling source file 'main.cpp')
+      C:\Programming\Laba1\StaticLib\Number.h(3,7):
+      see declaration of 'Number'
+  
+C:\Programming\Laba1\DLL\Vector.h(28,9): warning C4251: 'Vector::y_': 'Number' needs to have dll-interface to be used by clients of 'Vector'
+  (compiling source file 'main.cpp')
+      C:\Programming\Laba1\StaticLib\Number.h(3,7):
+      see declaration of 'Number'
+  
+  Laba1.vcxproj -> C:\Programming\Laba1\x64\Debug\Laba1.exe

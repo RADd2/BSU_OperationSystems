@@ -1,0 +1,49 @@
+﻿  Vector.cpp
+C:\Programming\Laba1\Dll\Vector.h(27,9): warning C4251: 'Vector::x_': 'Number' needs to have dll-interface to be used by clients of 'Vector'
+  (compiling source file 'Vector.cpp')
+      C:\Programming\Laba1\StaticLib\Number.h(3,7):
+      see declaration of 'Number'
+  
+C:\Programming\Laba1\Dll\Vector.h(28,9): warning C4251: 'Vector::y_': 'Number' needs to have dll-interface to be used by clients of 'Vector'
+  (compiling source file 'Vector.cpp')
+      C:\Programming\Laba1\StaticLib\Number.h(3,7):
+      see declaration of 'Number'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(3,9): warning C4273: 'Vector::Vector': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(15,2):
+      see previous definition of 'Vector::Vector'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(8,9): warning C4273: 'Vector::Vector': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(16,2):
+      see previous definition of 'Vector::Vector'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(13,16): warning C4273: 'Vector::getRadius': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(18,9):
+      see previous definition of 'Vector::getRadius'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(17,16): warning C4273: 'Vector::getAngle': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(19,9):
+      see previous definition of 'Vector::getAngle'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(21,16): warning C4273: 'Vector::getX': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(21,9):
+      see previous definition of 'Vector::getX'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(25,16): warning C4273: 'Vector::getY': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(22,9):
+      see previous definition of 'Vector::getY'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(29,16): warning C4273: 'Vector::operator +': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(24,9):
+      see previous definition of 'Vector::operator +'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(33,14): warning C4273: 'VEC_ZERO': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(31,26):
+      see previous definition of 'VEC_ZERO'
+  
+C:\Programming\Laba1\Dll\Vector.cpp(34,14): warning C4273: 'VEC_ONE': inconsistent dll linkage
+      C:\Programming\Laba1\Dll\Vector.h(32,26):
+      see previous definition of 'VEC_ONE'
+  
+     Creating library C:\Programming\Laba1\x64\Debug\Dll.lib and object C:\Programming\Laba1\x64\Debug\Dll.exp
+  Dll.vcxproj -> C:\Programming\Laba1\x64\Debug\Dll.dll

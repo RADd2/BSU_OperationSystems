@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\Laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDFA118A-F602-4C8C-B0A5-990B4D64E649}|Laba1\\Laba1.vcxproj|C:\\Programming\\Laba1\\Laba1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDFA118A-F602-4C8C-B0A5-990B4D64E649}|Laba1\\Laba1.vcxproj|solutionrelative:Laba1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE47D1E-A4B5-4AF7-8982-11086E7C601F}|Dll\\Dll.vcxproj|C:\\Programming\\Laba1\\Dll\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FAE47D1E-A4B5-4AF7-8982-11086E7C601F}|Dll\\Dll.vcxproj|solutionrelative:Dll\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE47D1E-A4B5-4AF7-8982-11086E7C601F}|Dll\\Dll.vcxproj|C:\\Programming\\Laba1\\Dll\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FAE47D1E-A4B5-4AF7-8982-11086E7C601F}|Dll\\Dll.vcxproj|solutionrelative:Dll\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D431045B-4E6A-47C7-AC37-32FA55C1D1D9}|StaticLib\\StaticLib.vcxproj|C:\\Programming\\Laba1\\StaticLib\\Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D431045B-4E6A-47C7-AC37-32FA55C1D1D9}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D431045B-4E6A-47C7-AC37-32FA55C1D1D9}|StaticLib\\StaticLib.vcxproj|C:\\Programming\\Laba1\\StaticLib\\Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D431045B-4E6A-47C7-AC37-32FA55C1D1D9}|StaticLib\\StaticLib.vcxproj|solutionrelative:StaticLib\\Number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Programming\\Laba1\\Laba1\\main.cpp",
+              "RelativeDocumentMoniker": "Laba1\\main.cpp",
+              "ToolTip": "C:\\Programming\\Laba1\\Laba1\\main.cpp",
+              "RelativeToolTip": "Laba1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T13:39:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "C:\\Programming\\Laba1\\Dll\\Vector.cpp",
+              "RelativeDocumentMoniker": "Dll\\Vector.cpp",
+              "ToolTip": "C:\\Programming\\Laba1\\Dll\\Vector.cpp",
+              "RelativeToolTip": "Dll\\Vector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T13:34:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.h",
+              "DocumentMoniker": "C:\\Programming\\Laba1\\Dll\\Vector.h",
+              "RelativeDocumentMoniker": "Dll\\Vector.h",
+              "ToolTip": "C:\\Programming\\Laba1\\Dll\\Vector.h",
+              "RelativeToolTip": "Dll\\Vector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T13:34:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Number.cpp",
+              "DocumentMoniker": "C:\\Programming\\Laba1\\StaticLib\\Number.cpp",
+              "RelativeDocumentMoniker": "StaticLib\\Number.cpp",
+              "ToolTip": "C:\\Programming\\Laba1\\StaticLib\\Number.cpp",
+              "RelativeToolTip": "StaticLib\\Number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T13:27:50.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Number.h",
+              "DocumentMoniker": "C:\\Programming\\Laba1\\StaticLib\\Number.h",
+              "RelativeDocumentMoniker": "StaticLib\\Number.h",
+              "ToolTip": "C:\\Programming\\Laba1\\StaticLib\\Number.h",
+              "RelativeToolTip": "StaticLib\\Number.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T13:22:43.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
